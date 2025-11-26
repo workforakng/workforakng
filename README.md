@@ -23,7 +23,7 @@ I am a Computer Science Engineer passionate about **AI/ML**, **Cybersecurity**, 
 
 ---
 
-## 🏆 Featured Projects (The Gold Tier)
+## 🏆 Featured Projects
 
 | Project             | Key Credential          | Focus & Tech Stack                                  |
 |:--------------------|:-----------------------|:----------------------------------------------------|
@@ -31,13 +31,6 @@ I am a Computer Science Engineer passionate about **AI/ML**, **Cybersecurity**, 
 | **Jīva Health**         | Full-Stack Capstone     | AI-powered OCR/NLP for medical record digitization  |
 | **Water Quality**       | AICTE Internship        | ML predicts 6 pollutants (O₂, NO₃, NO₂ᵣ, SO₄, PO₄, Cl⁻) |
 | **VeriFi**              | Web3 System             | Decentralized attendance via Edu Net Solidity Smart Contracts |
-
----
-
-## 📊 GitHub Activity
-
-![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=workforakng&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workforakng&layout=compact&theme=radical&hide_border=true)
 
 ---
 
